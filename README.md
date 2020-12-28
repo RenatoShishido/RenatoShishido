@@ -1,5 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"  width="200
-" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"  width="400" />
 
 ## Hi, I'm Renato Tomio de Souza Shishido 💻
 
