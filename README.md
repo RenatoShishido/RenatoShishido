@@ -17,14 +17,15 @@ const profile = {
     age: 20,
     backend:  [
         PHP: ["Laravel"], 
-        Javascript: ["Express"],
+        Javascript: ["Node.js"],
     ],
     frontend: [ 
-        JS: ["Vuejs"] 
+        HTML
+        JS: ["Vuejs", "Nuxt.js"] 
         CSS: ["Materialize", "Vuetify", "Bootstrap"]
     ],
     database: ["MongoDb", "MySql", "SQLite", "PostgreSQL"],
-    devOps: ["docker" , "AWS"],
+    devOps: ["Docker" , "AWS", Git, Github, Gitlab],
     interests: [
         "Web Development",
         "Mobile Development",
