@@ -25,7 +25,7 @@ const profile = {
         CSS: ["Materialize", "Vuetify", "Bootstrap"]
     ],
     database: ["MongoDb", "MySql", "SQLite", "PostgreSQL"],
-    devOps: ["Docker" , "AWS", Git, Github, Gitlab],
+    devOps: ["Docker" , "AWS", "Git", "Github", "Gitlab"],
     interests: [
         "Web Development",
         "Mobile Development",
