@@ -16,17 +16,21 @@ const profile = {
     name: "Renato Tomio de Souza Shishido", 
     age: 20,
     backend:  [
-        PHP: ["Laravel"], 
+        Java: ["Spring"], 
+        PHP: ["Laravel", "Wordpress"], 
         Javascript: ["Node.js"],
     ],
     frontend: [ 
         HTML
         JS: ["Vuejs", "Nuxt.js"] 
-        CSS: ["Materialize", "Vuetify", "Bootstrap"]
+        CSS: ["Materialize", "Vuetify", "Bootstrap"],
+        PHP: ["Wordpress"]
     ],
     database: ["MongoDb", "MySql", "SQLite", "PostgreSQL"],
-    devOps: ["Docker" , "AWS", "Git", "Github", "Gitlab"],
+    devOps: ["Docker" , "GCP", "Git", "Github", "Gitlab"],
     interests: [
+        "Clean Code",
+        "Project Standards"
         "Web Development",
         "Mobile Development",
         "Machine Learning",
