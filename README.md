@@ -18,7 +18,9 @@ const profile = {
     backend:  [
         Java: ["Spring"], 
         PHP: ["Laravel", "Wordpress"], 
-        Javascript: ["Node.js"],
+        Javascript: ["Node.js, Typescript"],
+        orm: ["TypeORM", "Hibernate"],
+        database: ["MongoDB", "MySql", "SQLite", "PostgreSQL"],
     ],
     frontend: [ 
         HTML
@@ -26,10 +28,11 @@ const profile = {
         CSS: ["Materialize", "Vuetify", "Bootstrap"],
         PHP: ["Wordpress"]
     ],
-    database: ["MongoDb", "MySql", "SQLite", "PostgreSQL"],
+    servidor: ["Apache", "Nginx"],
     devOps: ["Docker" , "GCP", "Git", "Github", "Gitlab"],
     interests: [
         "Clean Code",
+        "Design Patterns",
         "Project Standards"
         "Web Development",
         "Mobile Development",
