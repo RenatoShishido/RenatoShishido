@@ -8,6 +8,16 @@
 
 ---
 
+<div>
+    <a href="https://github.com/RenatoShishido">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RenatoShishido&show_icons=true&include_all_commits=true&theme=vue-dark"
+    </a>
+    <a href="https://github.com/RenatoShishido">
+       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RenatoShishido&layout=compact&langs_count=8&theme=vue-dark"/>
+     </a>
+</div>
+
+---
 ##  A little more about me...  
 
 <div>
@@ -68,17 +78,4 @@ const profile = {
 ```
 
 <code>
-
-
-  <div>
-    <a href="https://github.com/RenatoShishido">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RenatoShishido&show_icons=true&include_all_commits=true&theme=vue-dark"
-    </a>
-    <a href="https://github.com/RenatoShishido">
-       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RenatoShishido&layout=compact&langs_count=8&theme=vue-dark"/>
-     </a>
-  </div>
-  <div>
-     
-  </div>
 </code>
