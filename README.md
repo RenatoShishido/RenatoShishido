@@ -36,19 +36,19 @@
 const profile = {
     name: "Renato Tomio de Souza Shishido", 
     age: 20,
-    backend:  [
+    backend:  {
         JAVA: ["Spring"], 
         PHP: ["Laravel", "Wordpress"], 
         JAVASCRIPT: ["Node.js, Typescript"],
         ORN: ["TypeORM", "Hibernate"],
         DATABASE: ["MongoDB", "MySql", "SQLite", "PostgreSQL"],
-    ],
-    frontend: [ 
-        HTML
-        JS: ["Vuejs", "Nuxt.js"] 
+    },
+    frontend: { 
+        HTML,
+        JS: ["Vuejs", "Nuxt.js"], 
         CSS: ["Materialize", "Vuetify", "Bootstrap"],
-        PHP: ["Wordpress"]
-    ],
+        PHP: ["Wordpress"],
+    },
     servidor: ["Apache", "Nginx"],
     devOps: ["Docker" , "GCP", "Git", "Github", "Gitlab"],
     interests: [
