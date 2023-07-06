@@ -44,13 +44,13 @@
 ```javascript
 const profile = {
     name: "Renato Tomio de Souza Shishido", 
-    age: 20,
+    age: 22,
     backend:  {
-        JAVA: ["Spring"], 
+        JAVA: ["Spring Boot"], 
         PHP: ["Laravel", "Wordpress"], 
         JAVASCRIPT: ["Node.js, Typescript"],
         ORN: ["TypeORM", "Hibernate"],
-        DATABASE: ["MongoDB", "MySql", "SQLite", "PostgreSQL"],
+        DATABASE: ["MongoDB", "MySql", "SQLite", "PostgreSQL", "Oracle"],
     },
     frontend: { 
         HTML,
